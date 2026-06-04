@@ -1,0 +1,200 @@
+2026-05-04 23:21:14 | ETCH-03 | A007 | Pump Speed Low | LOW | 37min
+2026-05-05 01:09:14 | CMP-01 | A001 | RF Power Fault | MEDIUM | 106min
+2026-05-05 03:48:14 | ETCH-01 | A001 | RF Power Fault | LOW | 70min
+2026-05-05 04:05:14 | CMP-01 | A002 | Gas Flow Deviation | HIGH | 8min
+2026-05-05 05:04:14 | CVD-01 | A001 | RF Power Fault | LOW | 59min
+2026-05-05 06:13:14 | CMP-01 | A001 | RF Power Fault | MEDIUM | 62min
+2026-05-05 06:22:14 | CMP-01 | A002 | Gas Flow Deviation | MEDIUM | 93min
+2026-05-05 07:36:14 | ETCH-02 | A003 | Chamber Pressure Out of Range | HIGH | 83min
+2026-05-05 09:09:14 | CMP-01 | A008 | Coolant Flow Fault | LOW | 67min
+2026-05-05 12:05:14 | CMP-01 | A007 | Pump Speed Low | HIGH | 63min
+2026-05-05 12:19:14 | ETCH-01 | A001 | RF Power Fault | MEDIUM | 85min
+2026-05-05 13:24:14 | ETCH-01 | A005 | End Point Detection Failure | LOW | 55min
+2026-05-05 15:15:14 | ETCH-02 | A002 | Gas Flow Deviation | MEDIUM | 56min
+2026-05-05 18:31:14 | CMP-01 | A008 | Coolant Flow Fault | LOW | 44min
+2026-05-05 19:15:14 | ETCH-01 | A008 | Coolant Flow Fault | CRITICAL | 118min
+2026-05-05 22:48:14 | CVD-01 | A005 | End Point Detection Failure | HIGH | 51min
+2026-05-06 01:37:14 | ETCH-03 | A007 | Pump Speed Low | LOW | 110min
+2026-05-06 03:07:14 | CMP-01 | A001 | RF Power Fault | HIGH | 42min
+2026-05-06 05:05:14 | ETCH-01 | A005 | End Point Detection Failure | MEDIUM | 112min
+2026-05-06 06:11:14 | CVD-01 | A005 | End Point Detection Failure | LOW | 16min
+2026-05-06 08:28:14 | ETCH-02 | A008 | Coolant Flow Fault | HIGH | 59min
+2026-05-06 11:54:14 | ETCH-03 | A008 | Coolant Flow Fault | LOW | 80min
+2026-05-06 12:16:14 | ETCH-02 | A006 | Wafer Transfer Error | CRITICAL | 94min
+2026-05-06 15:36:14 | ETCH-03 | A006 | Wafer Transfer Error | MEDIUM | 5min
+2026-05-06 19:36:14 | CMP-01 | A003 | Chamber Pressure Out of Range | HIGH | 19min
+2026-05-06 21:26:14 | CVD-01 | A008 | Coolant Flow Fault | LOW | 3min
+2026-05-06 21:46:14 | ETCH-03 | A001 | RF Power Fault | CRITICAL | 46min
+2026-05-06 22:23:14 | CMP-01 | A007 | Pump Speed Low | LOW | 90min
+2026-05-07 00:24:14 | ETCH-02 | A004 | Temperature Exceedance | CRITICAL | 87min
+2026-05-07 02:58:14 | CMP-01 | A003 | Chamber Pressure Out of Range | LOW | 58min
+2026-05-07 02:59:14 | CVD-01 | A008 | Coolant Flow Fault | MEDIUM | 64min
+2026-05-07 04:44:14 | ETCH-01 | A004 | Temperature Exceedance | MEDIUM | 42min
+2026-05-07 08:36:14 | CVD-01 | A008 | Coolant Flow Fault | HIGH | 30min
+2026-05-07 11:50:14 | ETCH-03 | A005 | End Point Detection Failure | MEDIUM | 92min
+2026-05-07 12:01:14 | CVD-01 | A001 | RF Power Fault | HIGH | 23min
+2026-05-07 14:39:14 | CMP-01 | A004 | Temperature Exceedance | MEDIUM | 72min
+2026-05-07 18:30:14 | CVD-01 | A003 | Chamber Pressure Out of Range | MEDIUM | 106min
+2026-05-07 22:08:14 | CVD-01 | A006 | Wafer Transfer Error | HIGH | 64min
+2026-05-07 22:49:14 | ETCH-02 | A005 | End Point Detection Failure | MEDIUM | 49min
+2026-05-08 02:08:14 | ETCH-01 | A003 | Chamber Pressure Out of Range | LOW | 60min
+2026-05-08 02:10:14 | ETCH-03 | A003 | Chamber Pressure Out of Range | LOW | 1min
+2026-05-08 03:12:14 | CMP-01 | A007 | Pump Speed Low | LOW | 34min
+2026-05-08 03:17:14 | ETCH-02 | A006 | Wafer Transfer Error | CRITICAL | 45min
+2026-05-08 04:04:14 | ETCH-01 | A002 | Gas Flow Deviation | MEDIUM | 87min
+2026-05-08 06:00:14 | CVD-01 | A006 | Wafer Transfer Error | LOW | 84min
+2026-05-08 09:32:14 | ETCH-03 | A008 | Coolant Flow Fault | MEDIUM | 75min
+2026-05-08 11:39:14 | CMP-01 | A002 | Gas Flow Deviation | LOW | 37min
+2026-05-08 12:12:14 | CVD-01 | A006 | Wafer Transfer Error | MEDIUM | 31min
+2026-05-08 14:47:14 | ETCH-02 | A005 | End Point Detection Failure | CRITICAL | 19min
+2026-05-08 16:18:14 | ETCH-02 | A004 | Temperature Exceedance | HIGH | 52min
+2026-05-08 19:12:14 | ETCH-03 | A004 | Temperature Exceedance | MEDIUM | 61min
+2026-05-08 21:11:14 | ETCH-01 | A002 | Gas Flow Deviation | MEDIUM | 84min
+2026-05-08 22:14:14 | ETCH-02 | A006 | Wafer Transfer Error | MEDIUM | 116min
+2026-05-09 00:55:14 | CMP-01 | A007 | Pump Speed Low | LOW | 51min
+2026-05-09 02:14:14 | CVD-01 | A007 | Pump Speed Low | MEDIUM | 103min
+2026-05-09 06:03:14 | ETCH-01 | A003 | Chamber Pressure Out of Range | MEDIUM | 16min
+2026-05-09 08:03:14 | ETCH-02 | A003 | Chamber Pressure Out of Range | MEDIUM | 35min
+2026-05-09 10:10:14 | ETCH-02 | A006 | Wafer Transfer Error | HIGH | 77min
+2026-05-09 13:42:14 | ETCH-02 | A001 | RF Power Fault | LOW | 47min
+2026-05-09 17:05:14 | CMP-01 | A005 | End Point Detection Failure | HIGH | 82min
+2026-05-09 17:33:14 | CVD-01 | A003 | Chamber Pressure Out of Range | HIGH | 20min
+2026-05-09 19:12:14 | CVD-01 | A006 | Wafer Transfer Error | LOW | 89min
+2026-05-09 20:58:14 | ETCH-02 | A002 | Gas Flow Deviation | LOW | 35min
+2026-05-09 23:25:14 | CVD-01 | A008 | Coolant Flow Fault | MEDIUM | 13min
+2026-05-10 02:43:14 | ETCH-02 | A004 | Temperature Exceedance | LOW | 99min
+2026-05-10 03:49:14 | ETCH-01 | A007 | Pump Speed Low | HIGH | 19min
+2026-05-10 04:14:14 | ETCH-03 | A005 | End Point Detection Failure | MEDIUM | 94min
+2026-05-10 07:52:14 | ETCH-03 | A005 | End Point Detection Failure | LOW | 96min
+2026-05-10 10:05:14 | CVD-01 | A005 | End Point Detection Failure | MEDIUM | 60min
+2026-05-10 13:49:14 | ETCH-01 | A004 | Temperature Exceedance | CRITICAL | 98min
+2026-05-10 15:58:14 | CVD-01 | A006 | Wafer Transfer Error | HIGH | 8min
+2026-05-10 17:36:14 | CVD-01 | A007 | Pump Speed Low | LOW | 100min
+2026-05-10 18:27:14 | CVD-01 | A008 | Coolant Flow Fault | LOW | 41min
+2026-05-10 22:10:14 | CVD-01 | A007 | Pump Speed Low | LOW | 64min
+2026-05-10 23:31:14 | ETCH-01 | A008 | Coolant Flow Fault | HIGH | 79min
+2026-05-11 02:01:14 | CMP-01 | A002 | Gas Flow Deviation | LOW | 87min
+2026-05-11 03:37:14 | ETCH-02 | A003 | Chamber Pressure Out of Range | HIGH | 95min
+2026-05-11 05:50:14 | CMP-01 | A003 | Chamber Pressure Out of Range | CRITICAL | 57min
+2026-05-11 09:05:14 | ETCH-03 | A003 | Chamber Pressure Out of Range | LOW | 113min
+2026-05-11 11:42:14 | ETCH-03 | A005 | End Point Detection Failure | HIGH | 111min
+2026-05-11 15:41:14 | CVD-01 | A005 | End Point Detection Failure | LOW | 58min
+2026-05-11 16:35:14 | CVD-01 | A006 | Wafer Transfer Error | CRITICAL | 84min
+2026-05-11 17:10:14 | ETCH-01 | A002 | Gas Flow Deviation | LOW | 71min
+2026-05-11 17:25:14 | ETCH-02 | A001 | RF Power Fault | MEDIUM | 48min
+2026-05-11 20:04:14 | ETCH-03 | A006 | Wafer Transfer Error | LOW | 60min
+2026-05-11 20:18:14 | CMP-01 | A007 | Pump Speed Low | MEDIUM | 93min
+2026-05-11 22:45:14 | ETCH-01 | A004 | Temperature Exceedance | HIGH | 26min
+2026-05-11 23:11:14 | ETCH-03 | A008 | Coolant Flow Fault | CRITICAL | 12min
+2026-05-11 23:51:14 | CMP-01 | A005 | End Point Detection Failure | MEDIUM | 117min
+2026-05-12 02:30:14 | ETCH-03 | A001 | RF Power Fault | HIGH | 82min
+2026-05-12 04:40:14 | ETCH-02 | A008 | Coolant Flow Fault | LOW | 32min
+2026-05-12 06:59:14 | ETCH-01 | A001 | RF Power Fault | LOW | 47min
+2026-05-12 09:22:14 | ETCH-03 | A006 | Wafer Transfer Error | LOW | 91min
+2026-05-12 12:17:14 | ETCH-02 | A008 | Coolant Flow Fault | HIGH | 78min
+2026-05-12 15:50:14 | ETCH-03 | A005 | End Point Detection Failure | HIGH | 26min
+2026-05-12 17:11:14 | ETCH-01 | A001 | RF Power Fault | HIGH | 1min
+2026-05-12 19:03:14 | CMP-01 | A003 | Chamber Pressure Out of Range | CRITICAL | 88min
+2026-05-12 22:15:14 | ETCH-01 | A006 | Wafer Transfer Error | HIGH | 112min
+2026-05-12 23:58:14 | CVD-01 | A003 | Chamber Pressure Out of Range | HIGH | 110min
+2026-05-13 03:26:14 | CMP-01 | A002 | Gas Flow Deviation | HIGH | 99min
+2026-05-13 05:16:14 | CMP-01 | A006 | Wafer Transfer Error | MEDIUM | 33min
+2026-05-13 05:49:14 | ETCH-01 | A001 | RF Power Fault | LOW | 40min
+2026-05-13 06:46:14 | ETCH-02 | A008 | Coolant Flow Fault | MEDIUM | 49min
+2026-05-13 07:20:14 | ETCH-01 | A006 | Wafer Transfer Error | MEDIUM | 12min
+2026-05-13 10:43:14 | ETCH-01 | A005 | End Point Detection Failure | LOW | 45min
+2026-05-13 14:26:14 | CMP-01 | A001 | RF Power Fault | HIGH | 40min
+2026-05-13 18:03:14 | ETCH-02 | A002 | Gas Flow Deviation | LOW | 4min
+2026-05-13 19:10:14 | CVD-01 | A003 | Chamber Pressure Out of Range | MEDIUM | 97min
+2026-05-13 22:48:14 | ETCH-03 | A005 | End Point Detection Failure | HIGH | 93min
+2026-05-14 00:49:14 | ETCH-01 | A004 | Temperature Exceedance | MEDIUM | 73min
+2026-05-14 02:42:14 | ETCH-01 | A007 | Pump Speed Low | LOW | 2min
+2026-05-14 03:44:14 | CMP-01 | A005 | End Point Detection Failure | LOW | 55min
+2026-05-14 06:00:14 | CVD-01 | A006 | Wafer Transfer Error | LOW | 3min
+2026-05-14 07:25:14 | ETCH-01 | A008 | Coolant Flow Fault | CRITICAL | 108min
+2026-05-14 09:55:14 | CVD-01 | A007 | Pump Speed Low | LOW | 4min
+2026-05-14 12:30:14 | ETCH-02 | A006 | Wafer Transfer Error | HIGH | 117min
+2026-05-14 14:44:14 | ETCH-02 | A005 | End Point Detection Failure | MEDIUM | 43min
+2026-05-14 14:59:14 | ETCH-03 | A008 | Coolant Flow Fault | LOW | 16min
+2026-05-14 15:11:14 | ETCH-02 | A005 | End Point Detection Failure | MEDIUM | 15min
+2026-05-14 15:47:14 | ETCH-01 | A005 | End Point Detection Failure | LOW | 56min
+2026-05-14 16:58:14 | CVD-01 | A006 | Wafer Transfer Error | LOW | 54min
+2026-05-14 17:19:14 | ETCH-01 | A008 | Coolant Flow Fault | MEDIUM | 112min
+2026-05-14 20:48:14 | ETCH-03 | A005 | End Point Detection Failure | HIGH | 110min
+2026-05-14 22:59:14 | CMP-01 | A004 | Temperature Exceedance | LOW | 107min
+2026-05-15 01:24:14 | CVD-01 | A005 | End Point Detection Failure | LOW | 64min
+2026-05-15 04:57:14 | CMP-01 | A006 | Wafer Transfer Error | CRITICAL | 43min
+2026-05-15 05:52:14 | ETCH-03 | A008 | Coolant Flow Fault | MEDIUM | 29min
+2026-05-15 09:37:14 | CMP-01 | A006 | Wafer Transfer Error | HIGH | 51min
+2026-05-15 10:00:14 | CMP-01 | A007 | Pump Speed Low | MEDIUM | 21min
+2026-05-15 11:48:14 | CMP-01 | A006 | Wafer Transfer Error | HIGH | 13min
+2026-05-15 14:59:14 | ETCH-02 | A001 | RF Power Fault | HIGH | 26min
+2026-05-15 17:11:14 | ETCH-01 | A007 | Pump Speed Low | MEDIUM | 111min
+2026-05-15 20:51:14 | CMP-01 | A005 | End Point Detection Failure | LOW | 60min
+2026-05-15 23:24:14 | ETCH-01 | A001 | RF Power Fault | CRITICAL | 94min
+2026-05-16 02:51:14 | ETCH-03 | A002 | Gas Flow Deviation | MEDIUM | 117min
+2026-05-16 05:41:14 | ETCH-03 | A003 | Chamber Pressure Out of Range | MEDIUM | 35min
+2026-05-16 07:31:14 | ETCH-03 | A002 | Gas Flow Deviation | MEDIUM | 96min
+2026-05-16 10:37:14 | ETCH-03 | A002 | Gas Flow Deviation | MEDIUM | 71min
+2026-05-16 10:49:14 | ETCH-01 | A001 | RF Power Fault | HIGH | 85min
+2026-05-16 14:46:14 | ETCH-03 | A006 | Wafer Transfer Error | CRITICAL | 11min
+2026-05-16 16:06:14 | CMP-01 | A006 | Wafer Transfer Error | MEDIUM | 69min
+2026-05-16 18:45:14 | ETCH-03 | A004 | Temperature Exceedance | HIGH | 11min
+2026-05-16 20:29:14 | ETCH-03 | A002 | Gas Flow Deviation | LOW | 36min
+2026-05-16 23:37:14 | CMP-01 | A001 | RF Power Fault | CRITICAL | 112min
+2026-05-17 00:43:14 | ETCH-02 | A006 | Wafer Transfer Error | MEDIUM | 58min
+2026-05-17 04:09:14 | CMP-01 | A007 | Pump Speed Low | MEDIUM | 100min
+2026-05-17 06:00:14 | CVD-01 | A004 | Temperature Exceedance | LOW | 43min
+2026-05-17 09:20:14 | CMP-01 | A008 | Coolant Flow Fault | LOW | 120min
+2026-05-17 12:57:14 | ETCH-02 | A004 | Temperature Exceedance | HIGH | 12min
+2026-05-17 12:58:14 | ETCH-02 | A002 | Gas Flow Deviation | MEDIUM | 54min
+2026-05-17 14:20:14 | ETCH-03 | A005 | End Point Detection Failure | HIGH | 22min
+2026-05-17 15:54:14 | ETCH-02 | A002 | Gas Flow Deviation | MEDIUM | 112min
+2026-05-17 19:31:14 | CVD-01 | A008 | Coolant Flow Fault | MEDIUM | 49min
+2026-05-17 20:05:14 | ETCH-02 | A006 | Wafer Transfer Error | HIGH | 83min
+2026-05-17 22:40:14 | ETCH-02 | A006 | Wafer Transfer Error | MEDIUM | 75min
+2026-05-18 00:34:14 | ETCH-03 | A005 | End Point Detection Failure | LOW | 81min
+2026-05-18 03:45:14 | CMP-01 | A002 | Gas Flow Deviation | LOW | 72min
+2026-05-18 05:41:14 | CMP-01 | A006 | Wafer Transfer Error | CRITICAL | 15min
+2026-05-18 08:18:14 | CVD-01 | A003 | Chamber Pressure Out of Range | MEDIUM | 36min
+2026-05-18 11:58:14 | ETCH-03 | A002 | Gas Flow Deviation | LOW | 109min
+2026-05-18 15:57:14 | CMP-01 | A005 | End Point Detection Failure | LOW | 96min
+2026-05-18 19:36:14 | ETCH-03 | A003 | Chamber Pressure Out of Range | MEDIUM | 80min
+2026-05-18 21:16:14 | CMP-01 | A008 | Coolant Flow Fault | MEDIUM | 59min
+2026-05-18 22:51:14 | CVD-01 | A005 | End Point Detection Failure | LOW | 51min
+2026-05-19 02:48:14 | ETCH-02 | A005 | End Point Detection Failure | MEDIUM | 48min
+2026-05-19 04:47:14 | CVD-01 | A004 | Temperature Exceedance | HIGH | 105min
+2026-05-19 06:41:14 | ETCH-02 | A007 | Pump Speed Low | LOW | 110min
+2026-05-19 08:07:14 | ETCH-02 | A007 | Pump Speed Low | MEDIUM | 68min
+2026-05-19 10:09:14 | CVD-01 | A001 | RF Power Fault | CRITICAL | 7min
+2026-05-19 11:41:14 | ETCH-03 | A004 | Temperature Exceedance | MEDIUM | 28min
+2026-05-19 15:08:14 | CMP-01 | A006 | Wafer Transfer Error | MEDIUM | 116min
+2026-05-19 16:09:14 | ETCH-02 | A003 | Chamber Pressure Out of Range | MEDIUM | 19min
+2026-05-19 20:01:14 | CMP-01 | A006 | Wafer Transfer Error | LOW | 101min
+2026-05-19 20:23:14 | ETCH-03 | A008 | Coolant Flow Fault | LOW | 67min
+2026-05-19 22:58:14 | ETCH-01 | A007 | Pump Speed Low | HIGH | 29min
+2026-05-20 02:10:14 | CVD-01 | A007 | Pump Speed Low | MEDIUM | 84min
+2026-05-20 06:10:14 | ETCH-02 | A003 | Chamber Pressure Out of Range | LOW | 65min
+2026-05-20 08:03:14 | ETCH-03 | A006 | Wafer Transfer Error | CRITICAL | 3min
+2026-05-20 10:04:14 | ETCH-02 | A006 | Wafer Transfer Error | HIGH | 39min
+2026-05-20 13:55:14 | ETCH-01 | A005 | End Point Detection Failure | HIGH | 40min
+2026-05-20 17:04:14 | ETCH-03 | A005 | End Point Detection Failure | LOW | 108min
+2026-05-20 17:52:14 | CMP-01 | A001 | RF Power Fault | HIGH | 114min
+2026-05-20 18:12:14 | CVD-01 | A005 | End Point Detection Failure | HIGH | 111min
+2026-05-20 22:10:14 | CMP-01 | A004 | Temperature Exceedance | HIGH | 105min
+2026-05-21 01:27:14 | CVD-01 | A003 | Chamber Pressure Out of Range | LOW | 3min
+2026-05-21 04:07:14 | ETCH-01 | A005 | End Point Detection Failure | HIGH | 92min
+2026-05-21 07:53:14 | CMP-01 | A006 | Wafer Transfer Error | LOW | 76min
+2026-05-21 09:36:14 | CMP-01 | A001 | RF Power Fault | MEDIUM | 63min
+2026-05-21 11:24:14 | ETCH-01 | A008 | Coolant Flow Fault | MEDIUM | 63min
+2026-05-21 12:40:14 | ETCH-02 | A001 | RF Power Fault | LOW | 50min
+2026-05-21 13:19:14 | ETCH-01 | A003 | Chamber Pressure Out of Range | LOW | 120min
+2026-05-21 17:02:14 | ETCH-02 | A005 | End Point Detection Failure | LOW | 88min
+2026-05-21 18:31:14 | CMP-01 | A002 | Gas Flow Deviation | MEDIUM | 102min
+2026-05-21 22:15:14 | CMP-01 | A002 | Gas Flow Deviation | HIGH | 103min
+2026-05-21 22:49:14 | ETCH-02 | A005 | End Point Detection Failure | HIGH | 111min
+2026-05-22 01:44:14 | ETCH-01 | A002 | Gas Flow Deviation | MEDIUM | 99min
+2026-05-22 05:25:14 | CMP-01 | A005 | End Point Detection Failure | LOW | 102min
+2026-05-22 09:00:14 | ETCH-02 | A003 | Chamber Pressure Out of Range | HIGH | 71min
+2026-05-22 09:25:14 | CVD-01 | A007 | Pump Speed Low | MEDIUM | 113min
+2026-05-22 10:18:14 | ETCH-01 | A007 | Pump Speed Low | MEDIUM | 95min
